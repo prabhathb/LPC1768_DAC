@@ -1,4 +1,4 @@
-This is a simple C programming lngugae library to use the DAC of LPC1768 by NXP based on the ARM Cortex M3 architecture.
+This is a simple C programming langugae library to use the DAC of LPC1768 by NXP based on the ARM Cortex M3 architecture.
 It implements the basic operations to be carried out as a digital input is converted to an analog voltage.
 
 The header file dac.h can be inlcuded to an application program file and the functions can be called as regular C functions.
